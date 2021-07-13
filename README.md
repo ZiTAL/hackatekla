@@ -16,3 +16,4 @@ exit
 #Print :Exec scrot -b '%Y-%m-%d-%H-%M-%S.png' -e 'mv $f ~/Irudiak/'
 Print :Exec scrot -b 'takatekla.png' -e 'mv $f /tmp'
 ```
+

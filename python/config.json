@@ -1,0 +1,12 @@
+{
+    "left": 15,
+    "top": 166,
+    "right": 1295,
+    "bottom": 816,
+
+    "folder":       "/tmp/",
+    "input_img":    "takatekla.png",
+    "output_img":   "takatekla_crop.png",
+    "output_txt":   "takatekla.txt",
+    "output_json":  "takatekla.json"
+}
